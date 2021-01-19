@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-19T15:58:59.066Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="2i0cg7tpGPUkdRKVwNY2" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-19T16:11:06.451Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="OtNJJPO5kP2779Qm3f0K" version="14.2.4" type="github">
   <diagram id="0547Xb9sPqJC_JGnWhy9" name="Page-1">
     <mxGraphModel dx="2240" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,8 +94,8 @@
         <mxCell id="7dRraRXS6UqbkgXzYq5r-34" value="Was war der Auslöser?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="125" y="480" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7dRraRXS6UqbkgXzYq5r-35" value="Wie gefühlt auf einer Skala von&lt;br&gt;1-7 ?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="223.5" y="488" width="111" height="20" as="geometry" />
+        <mxCell id="7dRraRXS6UqbkgXzYq5r-35" value="Wie gefühlt &lt;font color=&quot;#006400&quot;&gt;auf einer Skala von&lt;br&gt;1-7 ?&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="223.5" y="490" width="111" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7dRraRXS6UqbkgXzYq5r-36" value="Gestaltungselement,&lt;br&gt;Gestaltungsaspekt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="560" width="40" height="20" as="geometry" />
@@ -116,13 +116,22 @@
           <mxGeometry x="595" y="560" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7dRraRXS6UqbkgXzYq5r-42" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="551" y="580" width="129" height="30" as="geometry" />
+          <mxGeometry x="551" y="580" width="229" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7dRraRXS6UqbkgXzYq5r-45" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;direction=south;" vertex="1" parent="1">
           <mxGeometry x="380" y="580" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7dRraRXS6UqbkgXzYq5r-47" value="Laddering" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="389" y="610" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7dRraRXS6UqbkgXzYq5r-49" value="&lt;font color=&quot;#006400&quot;&gt;Wie wichtig auf einer Skala von 1-7 bezogen auf das Produkt?&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="492" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7dRraRXS6UqbkgXzYq5r-50" value="&lt;font color=&quot;#006400&quot;&gt;BVM&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="259" y="523" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7dRraRXS6UqbkgXzYq5r-51" value="&lt;font color=&quot;#006400&quot;&gt;GVM&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="530" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
